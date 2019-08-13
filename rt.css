@@ -1,0 +1,20 @@
+
+h1{
+  color: black;
+  font-size: 65px;
+}
+
+body {
+  background: url("https://static.vecteezy.com/system/resources/previews/000/209/749/non_2x/green-watercolor-background-vector.jpg");
+  background-repeat:no-repeat;
+
+  background-size:cover;
+}
+h2{
+  text-align: center;
+  font-family: georgia;
+}
+.button:hover{
+  background-color: #555555;
+  color: white;
+}

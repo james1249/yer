@@ -1,0 +1,19 @@
+h1{
+  color: black;
+  font-size: 65px;
+}
+
+body {
+  background: url("https://i.pinimg.com/736x/5c/20/8f/5c208f1b14219901b3320d706d24c216--ombre-watercolor-background-purple-watercolor.jpg");
+  background-repeat:no-repeat;
+
+  background-size:cover;
+}
+h2{
+  text-align: center;
+  font-family: georgia;
+}
+.button:hover{
+  background-color: #555555;
+  color: white;
+}

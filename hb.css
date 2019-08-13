@@ -1,0 +1,19 @@
+h1{
+  color: black;
+  font-size: 65px;
+}
+
+body {
+  background: url("https://i.pinimg.com/originals/b3/27/5c/b3275cfc8ae7e77311e9414e742975b5.jpg");
+  background-repeat:no-repeat;
+
+  background-size:cover;
+}
+h2{
+  text-align: center;
+  font-family: georgia;
+}
+.button:hover{
+  background-color: #555555;
+  color: white;
+}

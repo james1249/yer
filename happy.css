@@ -1,0 +1,14 @@
+body {
+  background: url("https://image.freepik.com/free-vector/yellow-watercolor-background_1116-196.jpg");
+  background-repeat:no-repeat;
+
+  background-size:cover;
+}
+h2{
+  text-align: center;
+  font-family: georgia;
+}
+.button:hover{
+  background-color: #555555;
+  color: white;
+}
